@@ -3,6 +3,7 @@
 This repository contains a minimal demo that transcribes short English audio using OpenAI's Whisper models locally or in Google Colab.
 
 **Live demo (Colab / drive link):** https://drive.google.com/file/d/1um05V5EFp30OSxEItmkznjqAS8lKUK1i/view?usp=sharing
+- Click this link and in the top right corner click "Open in Co-Lab". You should be able to see a Jupyter Notebook run entirely in Google Colab
 
 **Quick overview**
 - **Upload**: Run the upload cell in the Colab notebook and choose an audio file.
