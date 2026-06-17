@@ -6,8 +6,7 @@ This repository contains a minimal demo that transcribes short English audio usi
 
 **Quick overview**
 - **Upload**: Run the upload cell in the Colab notebook and choose an audio file.
-- **Record**: Or use the built-in browser recorder (5s) to save `recording.webm` and transcribe immediately.
-- **Download**: Transcripts are printed and saved as `*.txt` for download.
+- **Record**: Or use the built-in browser recorder transcribe immediately.
 
 **Run in Google Colab**
 1. Open the notebook in Colab or use the provided link above.
